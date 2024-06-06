@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newschool/static/css/main.f855e6bc.css",
+    "main.js": "/newschool/static/js/main.abe44848.js",
+    "static/js/453.5b916508.chunk.js": "/newschool/static/js/453.5b916508.chunk.js",
+    "index.html": "/newschool/index.html",
+    "main.f855e6bc.css.map": "/newschool/static/css/main.f855e6bc.css.map",
+    "main.abe44848.js.map": "/newschool/static/js/main.abe44848.js.map",
+    "453.5b916508.chunk.js.map": "/newschool/static/js/453.5b916508.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.abe44848.js"
+  ]
+}
